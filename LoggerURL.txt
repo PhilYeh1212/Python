@@ -1,0 +1,2 @@
+https://pmsdata.formosasolar.com.tw/realtime/extel
+https://pmsdata.formosasolar.com.tw/realtime/extel/alarm
